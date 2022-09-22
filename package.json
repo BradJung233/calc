@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxcodes/Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxcodes/Calculator/issues"
+  },
+  "homepage": "https://github.com/zxcodes/Calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
